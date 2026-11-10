@@ -1,0 +1,157 @@
+[
+  {
+    "name": "viaruna",
+    "kind": "RDAP .com",
+    "url": "https://rdap.verisign.com/com/v1/domain/viaruna.com",
+    "checkedAt": "2026-11-10T07:40:22.810Z",
+    "status": 200,
+    "domain": "VIARUNA.COM",
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2026-10-05T02:03:33Z"
+      },
+      {
+        "eventAction": "expiration",
+        "eventDate": "2027-10-05T02:03:33Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-10-05T02:03:39Z"
+      },
+      {
+        "eventAction": "last update of RDAP database",
+        "eventDate": "2026-11-10T07:40:00Z"
+      }
+    ],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "viaruna",
+    "kind": "RDAP .app",
+    "url": "https://pubapi.registry.google/rdap/domain/viaruna.app",
+    "checkedAt": "2026-11-10T07:40:22.767Z",
+    "status": 404,
+    "interpretation": "Sin objeto RDAP devuelto; NO prueba disponibilidad registrable."
+  },
+  {
+    "name": "viaruna",
+    "kind": "Apple Search Argentina",
+    "url": "https://itunes.apple.com/search?term=viaruna&entity=software&country=ar&limit=50",
+    "checkedAt": "2026-11-10T07:40:22.791Z",
+    "status": 200,
+    "resultCount": 0,
+    "results": [],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "taluvia",
+    "kind": "RDAP .com",
+    "url": "https://rdap.verisign.com/com/v1/domain/taluvia.com",
+    "checkedAt": "2026-11-10T07:40:22.890Z",
+    "status": 200,
+    "domain": "TALUVIA.COM",
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2026-06-29T16:44:27Z"
+      },
+      {
+        "eventAction": "expiration",
+        "eventDate": "2027-06-29T16:44:27Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-06-29T16:44:28Z"
+      },
+      {
+        "eventAction": "last update of RDAP database",
+        "eventDate": "2026-11-10T07:40:00Z"
+      }
+    ],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "taluvia",
+    "kind": "RDAP .app",
+    "url": "https://pubapi.registry.google/rdap/domain/taluvia.app",
+    "checkedAt": "2026-11-10T07:40:22.793Z",
+    "status": 200,
+    "domain": "taluvia.app",
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventActor": "tucows",
+        "eventDate": "2026-10-12T14:54:42.412Z"
+      },
+      {
+        "eventAction": "expiration",
+        "eventDate": "2027-10-12T14:54:42.412Z"
+      },
+      {
+        "eventAction": "last update of RDAP database",
+        "eventDate": "2026-11-10T07:40:19.646Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-10-17T14:54:42.412Z"
+      }
+    ],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "taluvia",
+    "kind": "Apple Search Argentina",
+    "url": "https://itunes.apple.com/search?term=taluvia&entity=software&country=ar&limit=50",
+    "checkedAt": "2026-11-10T07:40:22.798Z",
+    "status": 200,
+    "resultCount": 0,
+    "results": [],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "ruviora",
+    "kind": "RDAP .com",
+    "url": "https://rdap.verisign.com/com/v1/domain/ruviora.com",
+    "checkedAt": "2026-11-10T07:40:22.963Z",
+    "status": 200,
+    "domain": "RUVIORA.COM",
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2026-04-29T18:31:20Z"
+      },
+      {
+        "eventAction": "expiration",
+        "eventDate": "2027-04-29T18:31:20Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-07-02T12:26:47Z"
+      },
+      {
+        "eventAction": "last update of RDAP database",
+        "eventDate": "2026-11-10T07:40:00Z"
+      }
+    ],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  },
+  {
+    "name": "ruviora",
+    "kind": "RDAP .app",
+    "url": "https://pubapi.registry.google/rdap/domain/ruviora.app",
+    "checkedAt": "2026-11-10T07:40:22.799Z",
+    "status": 404,
+    "interpretation": "Sin objeto RDAP devuelto; NO prueba disponibilidad registrable."
+  },
+  {
+    "name": "ruviora",
+    "kind": "Apple Search Argentina",
+    "url": "https://itunes.apple.com/search?term=ruviora&entity=software&country=ar&limit=50",
+    "checkedAt": "2026-11-10T07:40:22.791Z",
+    "status": 200,
+    "resultCount": 0,
+    "results": [],
+    "interpretation": "Respuesta pública recibida; revisar contenido."
+  }
+]
